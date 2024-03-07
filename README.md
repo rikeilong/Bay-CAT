@@ -26,7 +26,7 @@ Sun Yat-sen University<br>
 </div>
 <br>
   
-<img src='assets/Introduction.pdf' width='90%'>
+<img src='assets/Introduction.jpg' width='90%'>
 
 </div>
 
