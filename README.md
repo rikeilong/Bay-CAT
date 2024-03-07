@@ -17,7 +17,7 @@
 <sup>2</sup> Harbin Institute of Technology<br>
 <sup>3</sup> University of Oxford<br>
 <sup>4</sup> Sun Yat-sen University<br>
-*Corresponding author
+* Corresponding author
 
 [[Paper]]() [[Project Page]](https://github.com/rikeilong/Bay-CAT)
 
