@@ -3,7 +3,6 @@
 
 <h2 class="papername"> <img src="./assets/logo.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
 <div>
-<div>
     <a href="https://scholar.google.com/citations?user=1joiJpUAAAAJ" target="_blank">Qilang Ye<sup>1</sup></a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*<sup>1</sup></a>,
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao<sup>2</sup></a>,
