@@ -24,7 +24,7 @@
 
 </div>
 <br>
-
+</div>
 ## Introduction
 <p align="left">
 We introduce the CAT, enhancing MLLM in three ways:<br> 
@@ -33,8 +33,6 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 3) We propose AI-assisted ambiguity-aware direct preference optimization, a strategy specialized in retraining the model to favor the non-ambiguity response and improve the ability to localize specific audio-visual objects.
 </p>
 <img src='assets/Introduction.jpg' width='90%'>
-
-</div>
 
 ## Qualitative Results
 
