@@ -1,7 +1,6 @@
 # Bay-CAT
 <div align="center">
 
-<!-- <h1>JiuTian (九天) </h1> -->
 <h2 class="papername"> <img src="./assets/logo.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
 <div>
 <div>
