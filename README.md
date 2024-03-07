@@ -37,8 +37,8 @@ Sun Yat-sen University<br>
 
 ## Qualitative Results
 
-![Qualitative Comparison](assets/Examples1.jpg)
-![Qualitative Comparison](assets/Examples2.jpg)
-![Qualitative Comparison](assets/Examples3.jpg)
+![Qualitative Comparison](assets/app-visual-1.png)
+![Qualitative Comparison](assets/app-visual-2.png)
+![Qualitative Comparison](assets/app-visual-3.png)
 
 ## Citation
