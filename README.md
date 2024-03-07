@@ -24,6 +24,7 @@
 
 <br>
 </div>
+
 ## Introduction
 <p align="left">
 We introduce the CAT, enhancing MLLM in three ways:<br> 
@@ -31,9 +32,11 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 2) CAT is trained on a mixed multimodal dataset, allowing direct application in audio-visual scenarios. Notably, we collect an audio-visual joint instruction dataset named AVinstruct, to further enhance the capacity of CAT to model cross-semantic correlations.<br> 
 3) We propose AI-assisted ambiguity-aware direct preference optimization, a strategy specialized in retraining the model to favor the non-ambiguity response and improve the ability to localize specific audio-visual objects.
 </p>
+
 <div align="center">
 <img src='assets/Introduction.jpg' width='90%'>
 </div>
+
 ## Qualitative Results
 
 ![Qualitative Comparison](assets/app-visual-1.png)
