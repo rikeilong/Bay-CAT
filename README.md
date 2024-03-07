@@ -30,15 +30,15 @@ Sun Yat-sen University<br>
 
 </div>
 
-## If you find this work useful for your research, please kindly cite our paper and star our repo.
-
-## Updates
-- [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
-
 ## Qualitative Results
 
 ![Qualitative Comparison](assets/app-visual-1.png)
 ![Qualitative Comparison](assets/app-visual-2.png)
 ![Qualitative Comparison](assets/app-visual-3.png)
+
+## Updates
+- [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
+
+## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Citation
