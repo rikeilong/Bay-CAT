@@ -9,7 +9,7 @@
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*</a>,
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao</a>,
     <a href="https://ieeexplore.ieee.org/author/37090029620" target="_blank">Xinyu Xie</a>,
-    <a href="https://scholar.google.com/citations?user=kPxa2w0AAAAJ" target="_blank">Philip Torr</a>
+    <a href="https://scholar.google.com/citations?user=kPxa2w0AAAAJ" target="_blank">Philip Torr</a>,
     <a href="https://scholar.google.com/citations?user=PDgp6OkAAAAJ" target="_blank">Xiaochun Cao</a>
 </div>
 
