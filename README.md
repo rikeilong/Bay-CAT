@@ -17,7 +17,7 @@
 <sup>4</sup> Shenzhen Campus of Sun Yat-sen University<br>
 <p>*Corresponding author</p> 
 
-[[Paper]]() [[Project Page]](https://github.com/rikeilong/Bay-CAT)
+[[Paper]](https://arxiv.org/abs/2403.04640) [[Project Page]](https://github.com/rikeilong/Bay-CAT)
 
 :fire: The codes and the collected instructions <b>AVinstruct</b> will be released. Stay tuned :beers: :+1: 
 
@@ -45,6 +45,15 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 ## Updates
 - [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
 
-## If you find this work useful for your research, please kindly cite our paper and star our repo.
-
 ## Citation
+## If you find this work useful for your research, please kindly cite our paper and star our repo.
+```
+@misc{ye2024cat,
+      title={CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios}, 
+      author={Qilang Ye and Zitong Yu and Rui Shao and Xinyu Xie and Philip Torr and Xiaochun Cao},
+      year={2024},
+      eprint={2403.04640},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
