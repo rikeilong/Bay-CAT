@@ -43,6 +43,7 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 ![Qualitative Comparison](assets/app-visual-3.png)
 
 ## Updates
+- [03/2024] [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
 - [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
 
 ## Citation
