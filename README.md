@@ -1,5 +1,3 @@
-<div align="center">
-
 <h2 class="papername"> 
 <p align="center">
   <img src="assets/logo.png" width="30%" />
