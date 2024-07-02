@@ -5,7 +5,7 @@
 <div align="center">
   <h3 class="papername"> 
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h3>
-<div>
+<div align="center">
     <a href="https://scholar.google.com/citations?user=1joiJpUAAAAJ" target="_blank">Qilang Ye<sup>1</sup></a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*<sup>1</sup></a>,
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao<sup>2</sup></a>,
