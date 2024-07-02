@@ -38,13 +38,24 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 
 ## Qualitative Results
 <p align="center">
-  <img src="assets/audio.gif" width="25%" style="display:inline-block" />
-  <img src="assets/test1.gif" width="65%" style="display:inline-block" /> 
+  <img src="assets/audio.gif" width="20%" style="display:inline-block" />
+  <img src="assets/test1.gif" width="70%" style="display:inline-block" /> 
 </p>
-![Qualitative Comparison](assets/test1.gif)
-![Qualitative Comparison](assets/app-visual-1.png)
-![Qualitative Comparison](assets/app-visual-2.png)
-![Qualitative Comparison](assets/app-visual-3.png)
+
+<p align="center">
+  <img src="assets/audio.gif" width="20%" style="display:inline-block" />
+  <img src="assets/test2.gif" width="70%" style="display:inline-block" /> 
+</p>
+
+<p align="center">
+  <img src="assets/audio.gif" width="20%" style="display:inline-block" />
+  <img src="assets/test3.gif" width="70%" style="display:inline-block" /> 
+</p>
+
+<p align="center">
+  <img src="assets/audio.gif" width="20%" style="display:inline-block" />
+  <img src="assets/test4.gif" width="70%" style="display:inline-block" /> 
+</p>
 
 ## Updates
 - [07/2024] Our work has been accepted by ECCV 2024!
