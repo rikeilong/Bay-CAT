@@ -35,7 +35,7 @@
 <br>
 </div>
 
-## Introduction
+## Introduction :bulb:
 <p align="left">
 We introduce the CAT, enhancing MLLM in three ways:<br> 
 1) We design a clue aggregator that aggregates question-related clues in dynamic audio-visual scenarios to enrich the detailed knowledge required for large language models.<br> 
@@ -68,10 +68,6 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
   <img src="assets/test4.gif" width="70%" style="display:inline-block" /> 
 </p>
 
-## Updates
-- [07/2024] Our work has been accepted by ECCV 2024!
-- [03/2024] [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
-- [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
 
 ## Citation
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
