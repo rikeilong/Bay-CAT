@@ -5,7 +5,7 @@
   <img src="assets/logo.png" width="30%" />
 </p>
   
-<font size="10">  
+<font size="5">  
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
 </font>  
 <div>
@@ -28,10 +28,9 @@
 
 ## News :loudspeaker:
 
-- [07/2024] Our work has been accepted by ECCV 2024!
-- [03/2024] [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
-- [03/2024] [Project page](https://github.com/rikeilong/Bay-CAT) released.
-[[Paper]](https://arxiv.org/abs/2403.04640) [[Project Page]](https://github.com/rikeilong/Bay-CAT)
+* **[07/2024]**  Our work has been accepted by ECCV 2024!
+* **[03/2024]**  [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
+* **[03/2024]**  [Project page](https://github.com/rikeilong/Bay-CAT) released.
 
 :fire: The codes and the collected instructions <b>AVinstruct</b> will be released. Stay tuned :beers: :+1: 
 
