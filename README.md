@@ -1,8 +1,7 @@
-# Bay-CAT
 <div align="center">
 
 <h2 class="papername"> 
-<p align="center">
+<p align="center" width="80%">
   <img src="assets/logo.png" width="30%" />
 </p>
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
@@ -22,7 +21,7 @@
 <p>*Corresponding author</p> 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.04640-b31b1b.svg)](https://arxiv.org/abs/2403.04640)
-[![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/farewellthree/ST-LLM/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/rikeilong/Bay-CAT/blob/main/LICENSE)
 
 ## News :loudspeaker:
 
