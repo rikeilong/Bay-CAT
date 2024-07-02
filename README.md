@@ -1,11 +1,10 @@
-<h2 class="papername"> 
+
 <p align="center">
   <img src="assets/logo.png" width="30%" />
 </p>
-  
-<font size="5">  
-    Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
-</font>  
+<div align="center">
+  <h3 class="papername"> 
+    Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h3>
 <div>
     <a href="https://scholar.google.com/citations?user=1joiJpUAAAAJ" target="_blank">Qilang Ye<sup>1</sup></a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*<sup>1</sup></a>,
@@ -13,6 +12,7 @@
     <a href="https://ieeexplore.ieee.org/author/37090029620" target="_blank">Xinyu Xie<sup>1</sup></a>,
     <a href="https://scholar.google.com/citations?user=kPxa2w0AAAAJ" target="_blank">Philip Torr<sup>3</sup></a>,
     <a href="https://scholar.google.com/citations?user=PDgp6OkAAAAJ" target="_blank">Xiaochun Cao<sup>4</sup></a>
+</div>
 </div>
 
 <sup>1</sup> Great Bay University<br>
