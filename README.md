@@ -3,7 +3,7 @@
 
 <h2 class="papername"> 
 <p align="center">
-  <img src="assets/logo.png" width="10%" style="display:inline-block" />
+  <img src="assets/logo.png" width="20%" style="display:inline-block" />
   <img src="assets/logo-removebg-preview.png" width="25%" style="display:inline-block" /> 
 </p>
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
