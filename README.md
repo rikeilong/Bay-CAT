@@ -67,7 +67,7 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 
 ## Training & Validation
 We have collect an audio-visual joint instruction dataset, named AVinstruct.
-The training and evaluating schemes can be found in [Train.md](Train.md).
+The training and evaluating schemes can be found in [Data.md](AVinstruct/Data.md).
 
 ## Citation ✏️
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
