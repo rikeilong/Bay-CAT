@@ -38,7 +38,7 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 
 ## Qualitative Results
 <p align="center">
-  <img src="assets/audio.gif" width="100%" style="display:inline-block" />
+  <img src="assets/audio.gif" width="100%",height="20%" style="display:inline-block" />
   <img src="assets/test1.gif" width="100%" style="display:inline-block" /> 
 </p>
 ![Qualitative Comparison](assets/test1.gif)
