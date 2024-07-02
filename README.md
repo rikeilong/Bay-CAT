@@ -5,7 +5,7 @@
 <div align="center">
   <h3 class="papername"> 
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h3>
-<div align="center">
+<div align="center" font size="5">
     <a href="https://scholar.google.com/citations?user=1joiJpUAAAAJ" target="_blank">Qilang Ye<sup>1</sup></a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*<sup>1</sup></a>,
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao<sup>2</sup></a>,
@@ -14,16 +14,15 @@
     <a href="https://scholar.google.com/citations?user=PDgp6OkAAAAJ" target="_blank">Xiaochun Cao<sup>4</sup></a>
 </div>
 
-
 <sup>1</sup> Great Bay University<br>
 <sup>2</sup> Harbin Institute of Technology, Shenzhen<br>
 <sup>3</sup> University of Oxford<br>
 <sup>4</sup> Shenzhen Campus of Sun Yat-sen University<br>
 <p>*Corresponding author</p> 
-</div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.04640-b31b1b.svg)](https://arxiv.org/abs/2403.04640)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/rikeilong/Bay-CAT/blob/main/LICENSE)
+</div>
 
 ## News :loudspeaker:
 
