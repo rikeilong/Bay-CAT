@@ -30,10 +30,6 @@
 * **[03/2024]**  [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
 * **[03/2024]**  [Project page](https://github.com/rikeilong/Bay-CAT) released.
 
-:fire: The codes and the collected instructions <b>AVinstruct</b> will be released. Stay tuned :beers: :+1: 
-
-<br>
-</div>
 
 ## Introduction :bulb:
 <p align="left">
@@ -47,7 +43,7 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 <img src='assets/Introduction.jpg' width='90%'>
 </div>
 
-## Qualitative Results
+## Demo 🤗
 <p align="center">
   <img src="assets/audio.gif" width="20%" style="display:inline-block" />
   <img src="assets/test1.gif" width="70%" style="display:inline-block" /> 
@@ -69,7 +65,7 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 </p>
 
 
-## Citation
+## Citation ✏️
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 ```
 @misc{ye2024cat,
