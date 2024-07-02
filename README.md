@@ -26,6 +26,7 @@
 
 ## News :loudspeaker:
 
+* **[07/2024]**  We have released the collected AVinstruct dataset.
 * **[07/2024]**  Our work has been accepted by ECCV 2024!
 * **[03/2024]**  [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
 * **[03/2024]**  [Project page](https://github.com/rikeilong/Bay-CAT) released.
@@ -64,6 +65,9 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
   <img src="assets/test4.gif" width="70%" style="display:inline-block" /> 
 </p>
 
+## Training & Validation
+We have collect an audio-visual joint instruction dataset, named AVinstruct.
+The training and evaluating schemes can be found in [Train.md](Train.md).
 
 ## Citation ✏️
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
