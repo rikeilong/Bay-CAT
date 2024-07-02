@@ -1,10 +1,13 @@
 <div align="center">
 
 <h2 class="papername"> 
-<p align="center" width="50%">
+<p align="center">
   <img src="assets/logo.png" width="30%" />
 </p>
+  
+<p align="center" width="70%">
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
+</p>
 <div>
     <a href="https://scholar.google.com/citations?user=1joiJpUAAAAJ" target="_blank">Qilang Ye<sup>1</sup></a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*<sup>1</sup></a>,
