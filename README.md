@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2 class="papername"> 
-<p align="center" width="80%">
+<p align="center" width="50%">
   <img src="assets/logo.png" width="30%" />
 </p>
     Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios </h2>
