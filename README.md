@@ -22,6 +22,7 @@
 <p>*Corresponding author</p> 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.04640-b31b1b.svg)](https://arxiv.org/abs/2403.04640)
+[![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/farewellthree/ST-LLM/blob/main/LICENSE)
 
 ## News :loudspeaker:
 
