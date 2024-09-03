@@ -26,6 +26,7 @@
 
 ## News :loudspeaker:
 
+* **[09/2024]**  We have released code about fine-tuning and ADPO's.
 * **[07/2024]**  We have released the collected AVinstruct dataset.
 * **[07/2024]**  Our work has been accepted by ECCV 2024!
 * **[03/2024]**  [Arxiv paper](https://arxiv.org/abs/2403.04640) released.
