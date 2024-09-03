@@ -2,7 +2,7 @@
 CAT is based on LLaMA-2 7B and it includes three-stage training strategy. This step shows how to fine-tune the CAT.
 
 
-* Download [ImageBind]((https://github.com/facebookresearch/ImageBind)) and [BLIP2](https://huggingface.co/docs/transformers/model_doc/blip-2) weights, and place them into the corresponding place.
+* Download [ImageBind](https://github.com/facebookresearch/ImageBind) and [BLIP2](https://huggingface.co/docs/transformers/model_doc/blip-2) weights, and place them into the corresponding place.
 
 ## Get Started (Take Fine-tune on AVinstruct as example)
 
