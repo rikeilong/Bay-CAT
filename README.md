@@ -68,7 +68,10 @@ We introduce the CAT, enhancing MLLM in three ways:<br>
 
 ## Training & Validation
 We have collect an audio-visual joint instruction dataset, named AVinstruct, details in [Data.md](AVinstruct/README.md).
-The Fine-tuning process is is in here [SFT.md](SFT_CAT/README.md). The ADPO process is in here [ADPO.md](ADPO_CAT/README.md)
+
+The Fine-tuning process is in here [SFT.md](SFT_CAT/README.md). 
+
+The ADPO process is in here [ADPO.md](ADPO_CAT/README.md).
 
 ## Citation ✏️
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
